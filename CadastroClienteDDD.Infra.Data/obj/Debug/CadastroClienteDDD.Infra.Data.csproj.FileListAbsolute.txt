@@ -1,0 +1,12 @@
+C:\Users\decio\Desktop\Projetos\SolCadastroClienteDDD\CadastroClienteDDD.Infra.Data\bin\Debug\CadastroClienteDDD.Infra.Data.dll.config
+C:\Users\decio\Desktop\Projetos\SolCadastroClienteDDD\CadastroClienteDDD.Infra.Data\bin\Debug\CadastroClienteDDD.Infra.Data.dll
+C:\Users\decio\Desktop\Projetos\SolCadastroClienteDDD\CadastroClienteDDD.Infra.Data\bin\Debug\CadastroClienteDDD.Infra.Data.pdb
+C:\Users\decio\Desktop\Projetos\SolCadastroClienteDDD\CadastroClienteDDD.Infra.Data\bin\Debug\CadastroClienteDDD.Domain.dll
+C:\Users\decio\Desktop\Projetos\SolCadastroClienteDDD\CadastroClienteDDD.Infra.Data\bin\Debug\EntityFramework.dll
+C:\Users\decio\Desktop\Projetos\SolCadastroClienteDDD\CadastroClienteDDD.Infra.Data\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\decio\Desktop\Projetos\SolCadastroClienteDDD\CadastroClienteDDD.Infra.Data\bin\Debug\CadastroClienteDDD.Domain.pdb
+C:\Users\decio\Desktop\Projetos\SolCadastroClienteDDD\CadastroClienteDDD.Infra.Data\bin\Debug\EntityFramework.xml
+C:\Users\decio\Desktop\Projetos\SolCadastroClienteDDD\CadastroClienteDDD.Infra.Data\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\decio\Desktop\Projetos\SolCadastroClienteDDD\CadastroClienteDDD.Infra.Data\obj\Debug\CadastroClienteDDD.Infra.Data.csprojResolveAssemblyReference.cache
+C:\Users\decio\Desktop\Projetos\SolCadastroClienteDDD\CadastroClienteDDD.Infra.Data\obj\Debug\CadastroClienteDDD.Infra.Data.dll
+C:\Users\decio\Desktop\Projetos\SolCadastroClienteDDD\CadastroClienteDDD.Infra.Data\obj\Debug\CadastroClienteDDD.Infra.Data.pdb

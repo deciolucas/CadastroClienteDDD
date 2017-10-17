@@ -1,0 +1,5 @@
+C:\Users\decio\Desktop\Projetos\SolCadastroClienteDDD\CadastroClienteDDD.Domain\bin\Debug\CadastroClienteDDD.Domain.dll
+C:\Users\decio\Desktop\Projetos\SolCadastroClienteDDD\CadastroClienteDDD.Domain\bin\Debug\CadastroClienteDDD.Domain.pdb
+C:\Users\decio\Desktop\Projetos\SolCadastroClienteDDD\CadastroClienteDDD.Domain\obj\Debug\CadastroClienteDDD.Domain.dll
+C:\Users\decio\Desktop\Projetos\SolCadastroClienteDDD\CadastroClienteDDD.Domain\obj\Debug\CadastroClienteDDD.Domain.pdb
+C:\Users\decio\Desktop\Projetos\SolCadastroClienteDDD\CadastroClienteDDD.Domain\obj\Debug\CadastroClienteDDD.Domain.csprojResolveAssemblyReference.cache
